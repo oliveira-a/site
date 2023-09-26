@@ -16,7 +16,7 @@
 * Designed and implemented **Azure Function Apps** for third-party software integration
 * Implemented **CI/CD** pipelines using **Azure DevOps** for incremental deployments and automated testing
 * Created an **Angular** web application, using **TypeScript**, for **Apigee** log monitoring
-* Developed a python application for automating reports on version controlled projects and their SonarCloud statistics, using a pipeline oriented architecture with the help of **functools** library
+* Developed a python application for automating reports on version controlled projects and their respective SonarCloud statistics, using a pipeline oriented architecture with the help of **functools** library
 
 ### Software Engineer | Pear Technology Ltd. (October 2020 to July 2022)
 
@@ -27,13 +27,13 @@
 
 ### Software Engineer | Taffarello Spa. (August 2019 to July 2020)
 
-* Helped with the development of a new custom **Java ERP** application, designed for producing quotes on hand-made shopping bags
+* Helped with the development of a new custom **Java ERP** web application, designed for producing quotes on hand-made shopping bags
 * Acquired working knowledge of enterprise **Java** applications and **JSF**
 
 ### Web Developer Intern | Klekoo (June 2019 to August 2019)
 
-* Helped with front-end development of e-commerce and marketing websites using HTML, CSS and JavaScript
-* Worked with **Less** and **SASS** compiling **CSS** and **Bootstrap**
+* Helped with front-end development of an e-commerce and marketing websites using HTML, CSS and JavaScript
+* Worked with **Less** and **SASS** for compiling **CSS**, as well as **Bootstrap**
 
 ## Projects
 
