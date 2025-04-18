@@ -5,7 +5,7 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/"
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/ && cp CNAME ./public"
   },
   "repository": {
     "type": "git",
