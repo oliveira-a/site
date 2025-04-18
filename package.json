@@ -5,7 +5,7 @@
   "scripts": {
     "start": "eleventy --serve",
     "build": "eleventy",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/site/"
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/"
   },
   "repository": {
     "type": "git",
